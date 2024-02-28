@@ -1,0 +1,1 @@
+export const SERVER_URL = "http://carfullstack-env.eba-fdk6nr78.us-east-1.elasticbeanstalk.com/";
